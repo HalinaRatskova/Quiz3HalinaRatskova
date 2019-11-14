@@ -1,0 +1,10 @@
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\bin\Debug\Quiz3HalinaRatskova.exe.config
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\bin\Debug\Quiz3HalinaRatskova.exe
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\bin\Debug\Quiz3HalinaRatskova.pdb
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.Form1.resources
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.Properties.Resources.resources
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.csproj.GenerateResource.cache
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.exe
+C:\Users\ipd\source\repos\Quiz3HalinaRatskova\Quiz3HalinaRatskova\obj\Debug\Quiz3HalinaRatskova.pdb
